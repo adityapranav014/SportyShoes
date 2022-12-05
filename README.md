@@ -1,6 +1,5 @@
 # SportyShoes
-![image](https://user-images.githubusercontent.com/72086679/205678409-7fe030b1-b982-4ccd-8db6-8e1a1ce10a76.png)
-
+![image](https://user-images.githubusercontent.com/72086679/205680964-fe302c9b-fde9-47fa-b065-97b45c5696ee.png)
 
 ### POST (http://localhost:8080/admin/login)
 ![image](https://user-images.githubusercontent.com/72086679/205676432-70082b5a-32ec-4d48-9125-6871b03f878a.png)
