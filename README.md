@@ -3,7 +3,13 @@
 #
 ![image](https://user-images.githubusercontent.com/72086679/205680964-fe302c9b-fde9-47fa-b065-97b45c5696ee.png)
 
+### Admin Table
+
+![image](https://user-images.githubusercontent.com/72086679/205703330-58f3db9a-6410-4b13-b68f-144a1e263e0c.png)
+
 ## POST (http://localhost:8080/admin/login)
+![image](https://user-images.githubusercontent.com/72086679/205703705-974758bf-7e35-4341-8031-8fba92e80de3.png)
+
 ![image](https://user-images.githubusercontent.com/72086679/205676432-70082b5a-32ec-4d48-9125-6871b03f878a.png)
 ## PUT (http://localhost:8080/admin/login)
 ![image](https://user-images.githubusercontent.com/72086679/205677171-31fb0d27-2950-4fad-ba9d-32ca36b33b99.png)
