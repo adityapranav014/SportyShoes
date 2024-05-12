@@ -1,6 +1,5 @@
 # SportyShoes
-![1681155201572](https://github.com/adityapranav014/SportyShoes/assets/72086679/19a4d8ed-dc93-4080-bde2-fd4f3e3c5e89)
-
+![329857476-2cd08097-7ec1-435f-9999-1ee37f5b1b3b](https://github.com/adityapranav014/SportyShoes/assets/72086679/9a01b0df-4d15-49fe-98e6-cea6ef7f7cd5)
 
 #
 #
